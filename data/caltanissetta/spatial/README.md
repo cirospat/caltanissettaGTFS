@@ -13,3 +13,4 @@ ogr2ogr -append -f SQLite -dsco SPATIALITE=YES -nln linee scat.sqlite lineeOSM.g
 ogr2ogr -append -f SQLite -dsco SPATIALITE=YES -nln fermate scat.sqlite fermateOSM.geojson
 
 ```   
+mappa uMap delle linee e bus di Caltanissetta creata con i file geojson di questa directory http://u.osmfr.org/m/150723/
